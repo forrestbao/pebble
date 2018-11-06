@@ -225,7 +225,7 @@
     <g
        id="copper0" />
     <rect
-       id="connector15pad-4"
+       id="connector23pad"
        connectorname="16"
        x="5.847991"
        y="0.77484053"
@@ -234,7 +234,7 @@
        style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round"
        inkscape:label="connector23pad" />
     <rect
-       id="connector14pad-5"
+       id="connector22pad"
        connectorname="15"
        x="5.847991"
        y="1.4248393"
@@ -243,7 +243,7 @@
        style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round"
        inkscape:label="connector22pad" />
     <rect
-       id="connector13pad-1"
+       id="connector21pad"
        connectorname="14"
        x="5.847991"
        y="2.0748386"
@@ -252,7 +252,7 @@
        style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round"
        inkscape:label="connector21pad" />
     <rect
-       id="connector12pad-0"
+       id="connector20pad"
        connectorname="13"
        x="5.853991"
        y="2.724838"
