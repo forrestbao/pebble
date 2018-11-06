@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.68540001cm"
+   height="0.80199999cm"
+   viewBox="0 0 6.8499875 8.0199907"
+   id="svg35"
+   sodipodi:docname="SMD_TSSOP24_pcb.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs39" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1165"
+     inkscape:window-height="1023"
+     id="namedview37"
+     showgrid="true"
+     inkscape:zoom="17.186154"
+     inkscape:cx="12.536922"
+     inkscape:cy="12.239302"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="copper1"
+     units="cm"
+     viewbox-width="1.85"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4611" />
+  </sodipodi:namedview>
+  <g
+     id="copper1"
+     transform="translate(0,-0.30484168)">
+    <rect
+       id="connector9pad"
+       connectorname="10"
+       x="0.0060000001"
+       y="6.6248341"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector8pad"
+       connectorname="9"
+       x="0.0060000001"
+       y="5.9748344"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector7pad"
+       connectorname="8"
+       x="0.0059976201"
+       y="5.3248353"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector6pad"
+       connectorname="7"
+       x="0.0060000001"
+       y="4.6748362"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector5pad"
+       connectorname="6"
+       x="0.0060000001"
+       y="4.024837"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector4pad"
+       connectorname="5"
+       x="0.0060000001"
+       y="3.3748376"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector3pad"
+       connectorname="4"
+       x="0.0060000001"
+       y="2.7248383"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector2pad"
+       connectorname="3"
+       x="0.0060000001"
+       y="2.0748389"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector1pad"
+       connectorname="2"
+       x="0.0060000001"
+       y="1.4248399"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector0pad"
+       connectorname="1"
+       x="0.0060000001"
+       y="0.77484053"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector19pad"
+       connectorname="20"
+       x="5.847991"
+       y="3.3748374"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector18pad"
+       connectorname="19"
+       x="5.847991"
+       y="4.024837"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector17pad"
+       connectorname="18"
+       x="5.847991"
+       y="4.6748362"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector16pad"
+       connectorname="17"
+       x="5.847991"
+       y="5.3248358"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector15pad"
+       connectorname="16"
+       x="5.847991"
+       y="5.9748349"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector14pad"
+       connectorname="15"
+       x="5.847991"
+       y="6.6248345"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector13pad"
+       connectorname="14"
+       x="5.847991"
+       y="7.2748337"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector12pad"
+       connectorname="13"
+       x="5.853991"
+       y="7.9248328"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector11pad"
+       connectorname="12"
+       x="0.0059976038"
+       y="7.9248323"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <rect
+       id="connector10pad"
+       connectorname="11"
+       x="0.0059976038"
+       y="7.2748332"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round" />
+    <g
+       id="copper0" />
+    <rect
+       id="connector15pad-4"
+       connectorname="16"
+       x="5.847991"
+       y="0.77484053"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round"
+       inkscape:label="connector23pad" />
+    <rect
+       id="connector14pad-5"
+       connectorname="15"
+       x="5.847991"
+       y="1.4248393"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round"
+       inkscape:label="connector22pad" />
+    <rect
+       id="connector13pad-1"
+       connectorname="14"
+       x="5.847991"
+       y="2.0748386"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round"
+       inkscape:label="connector21pad" />
+    <rect
+       id="connector12pad-0"
+       connectorname="13"
+       x="5.853991"
+       y="2.724838"
+       width="1"
+       height="0.40000001"
+       style="fill:#f7bd13;stroke:none;stroke-width:0;stroke-linecap:round"
+       inkscape:label="connector20pad" />
+  </g>
+  <g
+     id="silkscreen"
+     transform="matrix(0.99906198,0,0,1.0684045,0.00321458,0.22211578)">
+    <line
+       class="other"
+       x1="1.1508"
+       y1="0.063500002"
+       x2="5.7031999"
+       y2="0.063500002"
+       id="line24"
+       style="stroke:#f0f0f0;stroke-width:0.127;stroke-linecap:round" />
+    <line
+       class="other"
+       x1="5.7031999"
+       y1="0.063500002"
+       x2="5.7031999"
+       y2="7.2030001"
+       id="line26"
+       style="stroke:#f0f0f0;stroke-width:0.127;stroke-linecap:round" />
+    <line
+       class="other"
+       x1="5.7031999"
+       y1="7.2030001"
+       x2="1.1508"
+       y2="7.2030001"
+       id="line28"
+       style="stroke:#f0f0f0;stroke-width:0.127;stroke-linecap:round" />
+    <line
+       class="other"
+       x1="1.1508"
+       y1="7.2030001"
+       x2="1.1508"
+       y2="0.063500002"
+       id="line30"
+       style="stroke:#f0f0f0;stroke-width:0.127;stroke-linecap:round" />
+    <circle
+       class="other"
+       cx="1.727"
+       cy="0.56349999"
+       r="0.14139999"
+       id="circle32"
+       style="fill:none;stroke:#f0f0f0;stroke-width:0.05" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833168px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229147;stroke-miterlimit:4;stroke-dasharray:none"
+       x="0.25851399"
+       y="-2.9676116"
+       id="text3766"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan3764"
+         x="0.25851399"
+         y="-2.9676116"
+         style="font-size:1.41110897px;stroke:#f0f0f0;stroke-width:0.13229147;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">TSSOP-24</tspan></text>
+  </g>
+</svg>
